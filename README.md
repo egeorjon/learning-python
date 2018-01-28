@@ -3,4 +3,5 @@ My reading notes about Python
 
 Course done with Python 3.x (3.6.x)
 
-See the [wiki page](../../wiki) to read my note.
+See the [wiki page](../../wiki) to read my notes.
+See the [Snippets](./snippets) for pieces of code
